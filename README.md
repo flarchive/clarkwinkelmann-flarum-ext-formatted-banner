@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of clarkwinkelmann/flarum-ext-formatted-banner.** Not for installation: use [Packagist](https://packagist.org/packages/clarkwinkelmann/flarum-ext-formatted-banner) or the [upstream repository](https://github.com/clarkwinkelmann/flarum-ext-formatted-banner).
 
-**0** versions archived · Latest: [`1.0.0`](https://github.com/flarchive/clarkwinkelmann-flarum-ext-formatted-banner/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^1.2`
+**1** versions archived · Latest: [`1.0.0`](https://github.com/flarchive/clarkwinkelmann-flarum-ext-formatted-banner/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^1.2`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0.0` | 2022-07-04 | `^1.2` | [Browse](https://github.com/flarchive/clarkwinkelmann-flarum-ext-formatted-banner/tree/archive/v1.0.0) |
 
 Catalog entry: [packages/clarkwinkelmann-flarum-ext-formatted-banner.json](https://github.com/flarchive/archive-index/blob/main/packages/clarkwinkelmann-flarum-ext-formatted-banner.json)
 
